@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* Love seeing movies
+* Best food (bean and bread)
